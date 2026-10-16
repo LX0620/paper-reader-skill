@@ -1,0 +1,6 @@
+interface:
+  display_name: "Paper Reader · 自动论文精读"
+  short_description: "说阅读这篇论文，即连续完成研究地图、创新与局限分析、五个研究想法和五问回顾"
+  default_prompt: "使用 $paper-reader 阅读这篇论文，连续完成全部五个步骤，不逐步等待确认，不撰写引言。"
+policy:
+  allow_implicit_invocation: true

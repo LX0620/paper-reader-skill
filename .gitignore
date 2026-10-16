@@ -1,0 +1,21 @@
+# Keep private reading materials out of the public repository.
+reading-notes/
+private/
+papers/
+research-context.local.md
+*.pdf
+*.docx
+*.xlsx
+*.xls
+*.bib
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+# Optional PDF helpers only; the instruction-based skill itself has no Python dependency.
+# Ranges are supported targets, not a claim that all versions have been tested.
+pypdf>=5.9,<7
+pypdfium2>=5.8,<6
+Pillow>=11,<13

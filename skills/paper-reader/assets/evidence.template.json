@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "sources": [],
+  "claims": [],
+  "_claim_shape": {
+    "id": "E001",
+    "statement": "",
+    "kind": "author_claim | paper_result | analyst_inference | external_verified | unresolved",
+    "anchors": [
+      {
+        "source_id": "S1",
+        "pdf_page": null,
+        "pdf_page_label": null,
+        "printed_page_verified": null,
+        "section": null,
+        "item": null
+      }
+    ],
+    "basis": "Brief paraphrase of supporting passage/result or inference premises",
+    "visual_status": "not_needed | checked | unavailable | pending",
+    "limitations": ""
+  },
+  "_instructions": "Delete underscore-prefixed template guidance when saving a real record. For external sources include exact URL, accessed_at and section anchors. Source records should identify file/version and SHA-256 where available. This is not a calibrated confidence score."
+}

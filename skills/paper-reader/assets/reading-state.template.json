@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.1",
+  "skill_version": "0.2.0",
+  "mode": "full_reading",
+  "workflow_status": "not_started",
+  "source_coverage": "not_assessed",
+  "sources": [],
+  "read_sections": [],
+  "read_pdf_pages": [],
+  "visually_checked_pdf_pages": [],
+  "completed_notes": [],
+  "open_questions": [],
+  "stages": {
+    "research_map": "pending",
+    "innovation": "pending",
+    "limitations": "pending",
+    "research_ideas": "pending",
+    "five_question_recap": "pending"
+  },
+  "next_stage": "research_map",
+  "updated_at": null,
+  "_instructions": "Delete underscore-prefixed guidance in saved records. Track completed stages, not hidden reasoning. Status per stage: pending/in_progress/completed/blocked. workflow_status: not_started/in_progress/completed/partial/blocked. source_coverage: not_assessed/full_available_main_text/partial_material/no_readable_source. Completing five stages does not imply full source coverage. Record source_id for pages and SHA-256 for source versions. No confirmation checkpoint; next_stage is for recovery from genuine interruption only."
+}
